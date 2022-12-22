@@ -7,3 +7,5 @@ Age: **3**
 Breed: **Beagle**
 
 Location: **Philadelphia**
+
+Skills: FOllowing scent trails, tdigging holes, treeing squirrels, looking after small children, guarding the pack, stealing chimkin when the little humans isn't looking
